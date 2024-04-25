@@ -94,7 +94,7 @@ main{
 }
 
 .mainphoto{
-background-image: url(/Assets/images/mainphoto3.jpg);
+background-image: url(../images/mainphoto3.jpg);
 display: flex;
 flex-wrap: wrap;
 height: 500px;
